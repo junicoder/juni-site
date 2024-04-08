@@ -7,9 +7,9 @@ export const personalData = {
 	],
 	contactLinks: [
 		"mailto:emailto:junimahardev@gmail.com",
-		"https://twitter.com/time_tocode",
-		"https://linkedin.com/aliciarodriguezLi",
-		"https://medium.com/@time2code.ali",
+		"https://twitter.com/",
+		"https://linkedin.com",
+		"https://medium.com/",
 	],
 };
 
